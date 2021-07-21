@@ -15,6 +15,7 @@
     "commander": "^6.2.1",
     "exif": "^0.6.0",
     "glob": "^7.1.6",
+    "image-size": "^1.0.0",
     "piexifjs": "^1.0.6"
   },
   "devDependencies": {}
